@@ -1,2 +1,1 @@
-# AutomaticVideoTrimmer_core
-Finetunable video temporal localization network 
+This repo hosts the training code for a neural network which will perform temporal action localization
